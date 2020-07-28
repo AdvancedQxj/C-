@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/advanceqxj/Documents/C-/5-11/account.cpp
+account.h
+/Users/advanceqxj/Documents/C-/5-11/account.h
+iostream
+-
+cmath
+-
+
+/Users/advanceqxj/Documents/C-/5-11/account.h
+
+/Users/advanceqxj/Documents/C-/5-11/main.cpp
+iostream
+-
+account.h
+/Users/advanceqxj/Documents/C-/5-11/account.h
+
